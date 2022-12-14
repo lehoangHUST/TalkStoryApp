@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="stories_title">
+        <item>Cây tre trăm đốt</item>
+        <item>Chàng cóc</item>
+        <item>Ba lưỡi rìu</item>
+        <item>Nguyễn Khoa Đăng</item>
+        <item>Cố Ghép</item>
+
+    </string-array>
+</resources>

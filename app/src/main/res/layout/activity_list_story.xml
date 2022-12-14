@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="5dp"
+    android:background="#ccc"
+    tools:context=".DetailStory">
+
+    <EditText
+        android:id="@+id/text_search"
+        android:layout_width="300dp"
+        android:layout_height="50dp"
+        android:layout_centerHorizontal="false"
+        android:hint="Nhập truyện cần tìm kiếm"
+        android:background="@color/teal_200"
+        />
+
+    <Button
+        android:id="@+id/btn_search"
+        android:layout_width="wrap_content"
+        android:layout_height="50dp"
+        android:layout_toEndOf="@+id/text_search"
+        />
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/storiesListView"
+        android:layout_width="400dp"
+        android:layout_height="716dp"
+        android:layout_below="@+id/text_search"
+        />
+</RelativeLayout>

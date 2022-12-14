@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "972599893980",
+    "firebase_url": "https://appstory-5d8d1-default-rtdb.firebaseio.com",
+    "project_id": "appstory-5d8d1",
+    "storage_bucket": "appstory-5d8d1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:972599893980:android:09f915c2ca4dc968b4b919",
+        "android_client_info": {
+          "package_name": "com.example.appstory"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "972599893980-s6gbhogltk4jvf7ie579uvme3urdu9dt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpEEg23n5GuH2ytgsqRB1rC1au97UhGB0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "972599893980-s6gbhogltk4jvf7ie579uvme3urdu9dt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:972599893980:android:5cd3c194f3d42f81b4b919",
+        "android_client_info": {
+          "package_name": "com.example.talkstory"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "972599893980-s6gbhogltk4jvf7ie579uvme3urdu9dt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpEEg23n5GuH2ytgsqRB1rC1au97UhGB0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "972599893980-s6gbhogltk4jvf7ie579uvme3urdu9dt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
